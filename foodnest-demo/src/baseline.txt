@@ -1,0 +1,27 @@
+SHIPGUARD AI — BEFORE BASELINE
+
+Project: FoodNest v2.0
+
+Manual release review:
+
+Start time:
+End time:
+Total time:
+
+Issues discovered:
+
+1.Configuration blocker found.
+2.Runtime version mismatch.
+3.Documentation mismatch.
+4.Incomplete deployment documentation.
+5
+
+Number of files manually inspected:
+
+Number of release requirements checked:
+
+Number of tests run:
+
+Number of failed tests:
+
+Number of manual rework steps:
